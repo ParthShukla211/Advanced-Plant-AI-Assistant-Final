@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+PyPDF2
+sentence-transformers
+faiss-cpu
+scikit-learn
+nltk
+transformers
+torch
+ctransformers
+huggingface-hub
